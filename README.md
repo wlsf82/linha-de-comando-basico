@@ -99,4 +99,4 @@ A linha de comando permite que um usuário navegue no sistema de arquivos de um 
 
 ___
 
-Feito com ❤️ pela [Escola Talking About Testing](https://talkingabouttesting.coursify.me).
+Feito com ❤️ por [Walmyr Filho](https://walmyrfilho.com).
